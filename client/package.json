@@ -6,7 +6,7 @@
     "axios": "^0.18.0",
     "react": "^16.2.0",
     "react-dom": "^16.2.0",
-    "react-scripts": "^1.1.5",
+    "react-scripts": "^5.0.1",
     "request": "^2.88.0",
     "semantic-ui-react": "^0.77.1"
   },
